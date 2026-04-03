@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://nekorder.app">
-    <img src="https://nekorder.app/favicon-96x96.png" width="64" height="64" alt="Nekorder">
+    <img src="https://nekorder.app/favicon-96x96.png" width="96" height="96" alt="Nekorder icon">
   </a>
 </p>
 
